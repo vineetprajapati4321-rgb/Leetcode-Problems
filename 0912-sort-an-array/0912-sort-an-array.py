@@ -1,12 +1,17 @@
 class Solution:
-    
+    def sortArray(self, nums):
+        if len(nums) <= 1:
+            return nums
 
-    def merge_array(self, left, right):
+        mid = len(nums) // 2
+
+        left = self.sortArray(nums[:mid])
+        right = self.sortArray(nums[mid:])
+
         result = []
-        i, j = 0, 0
-        n, m = len(left), len(right)
+        i = j = 0
 
-        while i < n and j < m:
+        while i < len(left) and j < len(right):
             if left[i] <= right[j]:
                 result.append(left[i])
                 i += 1
@@ -14,26 +19,7 @@ class Solution:
                 result.append(right[j])
                 j += 1
 
-        while i < n:
-            result.append(left[i])
-            i += 1
-
-        while j < m:
-            result.append(right[j])
-            j += 1
+        result.extend(left[i:])
+        result.extend(right[j:])
 
         return result
-
-    def merge_sort(self, arr):
-        if len(arr) <= 1:
-            return arr
-
-        mid = len(arr) // 2
-
-        left_arr = self.merge_sort(arr[:mid])
-        right_arr = self.merge_sort(arr[mid:])
-
-        return self.merge_array(left_arr, right_arr)
-
-    def sortArray(self, nums):
-        return self.merge_sort(nums)
