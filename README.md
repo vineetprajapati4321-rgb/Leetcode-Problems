@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [3870-count-commas-in-range](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
