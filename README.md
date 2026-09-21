@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
