@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/vineetprajapati4321-rgb/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## String
 |  |
